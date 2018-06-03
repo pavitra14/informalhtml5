@@ -4,4 +4,4 @@
 
 > A casual html theme by Pavitra Behre
 
-[Demo](https://prod.pbehre.in/informal/)
+[Demo](https://pavitra14.github.io/informalhtml5/)
